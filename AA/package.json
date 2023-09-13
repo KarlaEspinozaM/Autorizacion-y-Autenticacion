@@ -2,7 +2,7 @@
   "name": "Autenticacion & Autorizacion",
   "author": "Karla Espinoza",
   "version": "1.0.0",
-  "description": "Applicacion en Node.js que permite el manejo de la seguridad.",
+  "description": "Aplicacion en Node.js que permite el manejo de la seguridad.",
   "main": "index.js",
   "scripts": {
     "build": "babel src --out-dir build",
